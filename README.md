@@ -1,4 +1,4 @@
-# StockAnalizer
+# StockAnalyzer
 
 Die Klasse Stock.java analysiert die Aktienkurse, welche im JSON Format gegeben sind.
 Als Grundlage für das Arbeit mit JSON-Objekten wird das Open-Source Projekt
