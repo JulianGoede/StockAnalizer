@@ -7,6 +7,7 @@ genutzt.
 
 In der Klasse Stock.java ermitteln wir den Tag mit dem niedrigsten Kurs, den Tag mit dem höchsten Kurs,
 den Tag mit dem größten Unterschied zwischen Eröffnungskurs und Schlusskurs und den durchschnittlichen Schlusskurs der Aktie.
+Es ist dabei darauf zu achten, dass nur ein Datum ausgegeben wird, auch wenn z.B. der Tag mit dem niedrigsten Kurs nicht eindeutig ist. 
 
 Die Testklasse StockTest testet, ob die Funktionen auch bei zufälligen 
 Werten das richtige Ergebnis ermittelt wird.
