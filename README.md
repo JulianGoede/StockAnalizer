@@ -6,7 +6,7 @@ https://github.com/stleary/JSON-java
 genutzt.
 
 In der Klasse Stock.java wird der Tag mit dem niedrigsten Kurs, dem höchsten Kurs und dem größten Unterschied zwischen Eröffnungskurs und Schlusskurs ermittelt und zudem der durchschnittliche Schlusskurs der Aktie berechnet.
-Es ist dabei darauf zu achten, dass bei nicht vorhandener Eindeutigkeit einer Lösung nur ein Datum ausgegeben wird. 
+Man achte darauf, dass nur ein Datum ausgegeben wird, auch wenn die Lösung nicht eindeutig ist. 
 
 Die Testklasse StockTest testet, ob die Funktionen auch bei zufälligen 
 Werten das richtige Ergebnis ermittelt wird.
